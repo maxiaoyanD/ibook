@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是iBook自动化构建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiaoyanD/ibook.git"
+  },
+  "keywords": [],
+  "author": "maxiaoyanD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxiaoyanD/ibook/issues"
+  },
+  "homepage": "https://github.com/maxiaoyanD/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
